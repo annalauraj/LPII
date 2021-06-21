@@ -55,7 +55,6 @@ public class Exercicio1 {
         }
         else{
             System.out.println("Não é um palíndromo!\n");
-
         }
     }
 }
